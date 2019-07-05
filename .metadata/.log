@@ -33,3 +33,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-07-05 10:02:18.786
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2019-07-05 10:49:26.059
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/alanmehio/eclipse-plugin-hsqldb-server/master/content.jar
