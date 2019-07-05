@@ -57,3 +57,35 @@
 2019-07-05 10:22:20,345 [Worker-18: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-07-05 10:22:20,346 [Worker-18: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-07-05 10:22:20,346 [Worker-18: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:24:40,505 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:24:40,506 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:24:40,506 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:24:40,507 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:29:43,518 [Worker-12: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:29:43,519 [Worker-12: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:29:43,520 [Worker-12: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:29:43,520 [Worker-12: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:31:46,451 [Worker-22: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:31:46,452 [Worker-22: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:31:46,453 [Worker-22: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:31:46,454 [Worker-22: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:32:26,274 [Worker-23: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:32:26,275 [Worker-23: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:32:26,276 [Worker-23: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:32:26,277 [Worker-23: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:32:38,772 [Worker-24: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:32:38,774 [Worker-24: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:32:38,775 [Worker-24: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:32:38,775 [Worker-24: Launching chromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:35:29,571 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:35:29,571 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:35:29,573 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:35:29,574 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:36:36,314 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:36:36,315 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:36:36,315 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:36:36,316 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:38:23,232 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:38:23,233 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:38:23,233 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:38:23,234 [Worker-19: Launching testchromebrow] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
