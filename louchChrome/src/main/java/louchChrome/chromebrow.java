@@ -19,9 +19,20 @@ static String y;
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Abdel\\Documents\\Cloned Servers\\maven1\\louchChrome\\lib\\Drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
+		
+		
 		driver.get("https:\\www.google.com");
+		
+		
 		driver.findElement(By.name("q")).sendKeys(x);
-		//driver.findElement(By.name("btnI")).click();
+		
+		 try {
+				Thread.sleep(1000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		driver.findElement(By.name("btnI")).click();
 	}
 	
 	public static void ffxinstance(String y) {
@@ -29,7 +40,15 @@ static String y;
 		driver = new FirefoxDriver();
 		driver.manage().window().maximize();
 		driver.get("https:\\www.google.com");
+		
 		driver.findElement(By.name("q")).sendKeys(y);
+		 try {
+				Thread.sleep(2000);
+			} catch (InterruptedException e1) {
+				
+				e1.printStackTrace();
+			}
+		driver.findElement(By.name("btnI")).click();
 		
 		
 	}
