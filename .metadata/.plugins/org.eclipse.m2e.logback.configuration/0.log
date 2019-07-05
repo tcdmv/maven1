@@ -96,3 +96,6 @@
 2019-07-05 10:46:58,116 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-07-05 10:46:58,117 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-07-05 10:46:58,117 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 10:51:14,041 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-05 10:51:20,527 [Worker-29: Launching louchChrome (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Abdel\Documents\Cloned Servers\maven1\louchChrome
+2019-07-05 10:51:20,527 [Worker-29: Launching louchChrome (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
