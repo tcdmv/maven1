@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testNG.testbrowser">
+      <class name="parametersTest.datadriventest">
         <methods>
-          <include name="closetest"/>
-          <include name="openBrowser"/>
-          <include name="logo"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="register"/>
         </methods>
-      </class> <!-- testNG.testbrowser -->
+      </class> <!-- parametersTest.datadriventest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

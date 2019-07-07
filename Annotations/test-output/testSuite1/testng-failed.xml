@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testSuite1]">
+  <test thread-count="5" name="googleAddMultip(failed)">
+    <classes>
+      <class name="testNG.testbrowser">
+        <methods>
+          <include name="closetest"/>
+          <include name="serch1"/>
+          <include name="openBrowser"/>
+          <include name="logo"/>
+        </methods>
+      </class> <!-- testNG.testbrowser -->
+    </classes>
+  </test> <!-- googleAddMultip(failed) -->
+</suite> <!-- Failed suite [testSuite1] -->

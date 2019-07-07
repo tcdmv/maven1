@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testSuite2]">
+  <test thread-count="5" name="yahoo(failed)">
+    <parameter name="emailID" value="abdel@yahoo.com"/>
+    <parameter name="URL" value="https://login.yahoo.com"/>
+    <classes>
+      <class name="parametersTest.yahooParameters">
+        <methods>
+          <include name="yahooP" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- parametersTest.yahooParameters -->
+    </classes>
+  </test> <!-- yahoo(failed) -->
+</suite> <!-- Failed suite [testSuite2] -->

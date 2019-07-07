@@ -11,6 +11,25 @@
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>4.1.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-excelant -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-excelant</artifactId>
+    <version>4.1.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.jxls/jxls-reader -->
+<dependency>
+    <groupId>org.jxls</groupId>
+    <artifactId>jxls-reader</artifactId>
+    <version>2.0.5</version>
+</dependency>
+
   
   </dependencies>
   
