@@ -2,10 +2,10 @@ node{
 
 stage('SCM checkout'){
  
-  git 'https://github.com/tcdmv/maven1/tree/master/Annotations'
+  git 'git 'https://github.com/tcdmv/maven1.git''
 }
 stage('compile-package'){
-sh'mvn package'
+sh'mvn test'
 }
  stage('email-Notificatio'){
   mail bcc: '', body: 'this is an alert from Jenkins', cc: '', from: '', replyTo: '', subject: 'Jenkins Alert', to: '20testqa19@gmail.com'
